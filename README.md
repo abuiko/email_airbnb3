@@ -1,0 +1,1 @@
+Remade Promotional email from Airbnb using HTML tables
